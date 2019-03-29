@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 19 12:37:08 2019
-
-@author: PC
-"""
-
 import networkx as nx
 import os
 
